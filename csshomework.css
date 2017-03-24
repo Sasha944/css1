@@ -1,0 +1,133 @@
+html {
+	background-image: url(seigaiha.png);
+	background-repeat: repeat ;
+}
+body{
+background-image: url(BA_new_icon.png);
+background-repeat: no-repeat;
+background-position: top right;
+background-attachment: fixed;
+}
+ 
+ .h1 {
+ 	font-size:40px;
+ 	color:#333;
+ 	font-family: monospace;
+ 	text-align:center;
+
+ }
+ 	.p {
+ 		font-size:20px;
+ 		color:#ccc;
+ 		text-align: center;
+ 		font-style: italic;
+ 		font-family: monospace;
+ 	}
+ .text{
+
+ 	font-size:16px;
+ 	color:#888;
+ 	font-family: sans-serif;
+ 	font-weight: bold;
+ }
+
+
+ :visited{
+ 	color:#a9a;
+ }
+
+
+ .link {
+	text-decoration: none;
+	font-size: 30px;
+	/*font-variant: small-caps;*/
+}
+
+
+ .list {
+ 	/*font-family: sans-serif;*/
+	text-align: center;
+	list-style: none;
+ }
+ .list1{
+  font-size: 30px;
+  font-style:italic;
+font-family: 'Indie Flower',cursive;
+ 
+ 
+ }
+.list1:hover{
+	background: #eee;
+	background-image: url(short_arrow_right-512.png);
+	background-repeat: no-repeat;
+}
+ .link:hover{
+ 	color:#333;
+ }
+.link:active{
+	text-decoration: overline;
+}
+.text1{
+font-size:18px;
+text-indent: 40px;
+color:#222;
+text-align:justify;
+font-family: 'Indie Flower', cursive;
+font-weight: bold;
+
+
+}
+.text1:first-line{
+	font-size:27px;
+	color:#a83;
+
+}
+.text1:first-letter{
+	color:#ea3;
+	font-size:40px;
+	font-weight: 35;
+	font-style: italic;
+	 
+	 
+}
+ .h2{
+ 	text-align: justify;
+font-size: 35px;
+font-family: cursive;
+
+
+ }
+ .tr{
+  background: #666;
+  color:white;
+  border:1px;
+ }
+ .table{
+ 	text-align: center;
+ 	font-size: 18px;
+ 	table font-family: Verdana;
+ 	width:80%;
+ }
+
+  	.tr1{
+ 		border:1px;
+ 	}
+ .tr1:hover{
+ 	background: #ccc;
+
+ }
+ .tr2{
+  background: #a83;
+  color:white;
+  border:1px;
+
+ }
+ .the{
+ 	text-decoration: none;
+ 	color:blue;
+ 	font-size: 25px;
+   font-family: monospace;
+   font-style: italic;
+ }
+
+
